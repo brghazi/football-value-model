@@ -1,0 +1,5 @@
+model,split,rmse_log,r2_log,mae_eur,median_pct_err
+ridge_final,test,0.894,0.683,1857023.731,52.916
+lightgbm_final,test,0.762,0.77,1360916.726,42.065
+lightgbm_final (covered leagues),test,0.662,0.848,2475188.569,38.47
+lightgbm_final (other leagues),test,0.823,0.568,606920.008,44.579
