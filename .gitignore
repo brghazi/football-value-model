@@ -1,0 +1,13 @@
+# The venv gets rebuilt from requirements.txt, so it never needs committing
+venv/
+
+# Data is too big for GitHub and comes from Kaggle (README explains how to download it)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.env
