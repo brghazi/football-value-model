@@ -4300,5 +4300,9 @@
   "Right Winger": 177,
   "Right-Back": 179,
   "Second Striker": 178
+ },
+ "error_band": {
+  "low_mult": 0.629,
+  "high_mult": 1.501
  }
 }
