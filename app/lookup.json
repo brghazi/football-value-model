@@ -16,13 +16,6 @@
    "club_n_prev": 72
   },
   {
-   "id": 4,
-   "name": "1.FC Nuremberg",
-   "league": "L1",
-   "club_avg_lv": 14.0509,
-   "club_n_prev": 28
-  },
-  {
    "id": 5544,
    "name": "1.FC Slovacko",
    "league": "TS1",
@@ -51,25 +44,11 @@
    "club_n_prev": 40
   },
   {
-   "id": 2414,
-   "name": "AC Horsens",
-   "league": "DK1",
-   "club_avg_lv": 13.244,
-   "club_n_prev": 8
-  },
-  {
    "id": 5,
    "name": "AC Milan",
    "league": "IT1",
    "club_avg_lv": 16.5064,
    "club_n_prev": 64
-  },
-  {
-   "id": 2919,
-   "name": "AC Monza",
-   "league": "IT1",
-   "club_avg_lv": 14.2235,
-   "club_n_prev": 40
   },
   {
    "id": 197,
@@ -91,13 +70,6 @@
    "league": "RO1",
    "club_avg_lv": 12.6094,
    "club_n_prev": 49
-  },
-  {
-   "id": 33966,
-   "name": "ACSM Politehnica Iasi",
-   "league": "RO1",
-   "club_avg_lv": 12.6985,
-   "club_n_prev": 13
   },
   {
    "id": 989,
@@ -149,25 +121,11 @@
    "club_n_prev": 74
   },
   {
-   "id": 618,
-   "name": "AS Saint-Étienne",
-   "league": "FR1",
-   "club_avg_lv": 14.2843,
-   "club_n_prev": 52
-  },
-  {
    "id": 1090,
    "name": "AZ Alkmaar",
    "league": "NL1",
    "club_avg_lv": 15.0216,
    "club_n_prev": 69
-  },
-  {
-   "id": 1053,
-   "name": "Aalborg BK",
-   "league": "DK1",
-   "club_avg_lv": 12.9685,
-   "club_n_prev": 25
   },
   {
    "id": 5619,
@@ -189,20 +147,6 @@
    "league": "SC1",
    "club_avg_lv": 13.4483,
    "club_n_prev": 59
-  },
-  {
-   "id": 3840,
-   "name": "Adana Demirspor",
-   "league": "TR1",
-   "club_avg_lv": 12.5511,
-   "club_n_prev": 33
-  },
-  {
-   "id": 6,
-   "name": "Adanaspor",
-   "league": "TR1",
-   "club_avg_lv": 12.6372,
-   "club_n_prev": 10
   },
   {
    "id": 875,
@@ -345,13 +289,6 @@
    "club_n_prev": 69
   },
   {
-   "id": 8344,
-   "name": "Albirex Niigata",
-   "league": "JAP1",
-   "club_avg_lv": 13.0184,
-   "club_n_prev": 8
-  },
-  {
    "id": 22902,
    "name": "Alianza FC",
    "league": "COL1",
@@ -364,20 +301,6 @@
    "league": "SE1",
    "club_avg_lv": 13.2826,
    "club_n_prev": 54
-  },
-  {
-   "id": 723,
-   "name": "Almere City FC",
-   "league": "NL1",
-   "club_avg_lv": 12.8091,
-   "club_n_prev": 60
-  },
-  {
-   "id": 1416,
-   "name": "Amiens SC",
-   "league": "FR1",
-   "club_avg_lv": 13.0265,
-   "club_n_prev": 11
   },
   {
    "id": 1420,
@@ -406,13 +329,6 @@
    "league": "GB1",
    "club_avg_lv": 17.629,
    "club_n_prev": 46
-  },
-  {
-   "id": 3729,
-   "name": "Arsenal Tula",
-   "league": "RU1",
-   "club_avg_lv": 12.8675,
-   "club_n_prev": 7
   },
   {
    "id": 1030,
@@ -469,13 +385,6 @@
    "league": "IT1",
    "club_avg_lv": 16.1823,
    "club_n_prev": 66
-  },
-  {
-   "id": 3062,
-   "name": "Athens Kallithea",
-   "league": "GR1",
-   "club_avg_lv": 12.5085,
-   "club_n_prev": 23
   },
   {
    "id": 621,
@@ -618,25 +527,11 @@
    "club_n_prev": 88
   },
   {
-   "id": 41274,
-   "name": "Beerschot VA",
-   "league": "BE1",
-   "club_avg_lv": 13.3915,
-   "club_n_prev": 24
-  },
-  {
    "id": 114,
    "name": "Beşiktaş Jimnastik Kulübü",
    "league": "TR1",
    "club_avg_lv": 14.7037,
    "club_n_prev": 85
-  },
-  {
-   "id": 44006,
-   "name": "Bodrum FK",
-   "league": "TR1",
-   "club_avg_lv": 12.7163,
-   "club_n_prev": 42
   },
   {
    "id": 715,
@@ -695,13 +590,6 @@
    "club_n_prev": 43
   },
   {
-   "id": 1057,
-   "name": "Bryne FK",
-   "league": "NO1",
-   "club_avg_lv": 12.1144,
-   "club_n_prev": 6
-  },
-  {
    "id": 206,
    "name": "Bröndby IF",
    "league": "DK1",
@@ -730,13 +618,6 @@
    "club_n_prev": 51
   },
   {
-   "id": 10511,
-   "name": "CA San Martín (San Juan)",
-   "league": "ARG1",
-   "club_avg_lv": 12.7746,
-   "club_n_prev": 14
-  },
-  {
    "id": 2352,
    "name": "CD América de Cali",
    "league": "COL1",
@@ -749,27 +630,6 @@
    "league": "MEX1",
    "club_avg_lv": 14.8811,
    "club_n_prev": 68
-  },
-  {
-   "id": 3349,
-   "name": "CD Feirense",
-   "league": "PO1",
-   "club_avg_lv": 12.4748,
-   "club_n_prev": 7
-  },
-  {
-   "id": 12574,
-   "name": "CD Godoy Cruz Antonio Tomba",
-   "league": "ARG1",
-   "club_avg_lv": 13.7395,
-   "club_n_prev": 8
-  },
-  {
-   "id": 1244,
-   "name": "CD Leganés",
-   "league": "ES1",
-   "club_avg_lv": 14.1268,
-   "club_n_prev": 33
   },
   {
    "id": 982,
@@ -828,25 +688,11 @@
    "club_n_prev": 66
   },
   {
-   "id": 1301,
-   "name": "CS Marítimo",
-   "league": "PO1",
-   "club_avg_lv": 12.9289,
-   "club_n_prev": 5
-  },
-  {
    "id": 1390,
    "name": "Cagliari Calcio",
    "league": "IT1",
    "club_avg_lv": 14.8617,
    "club_n_prev": 68
-  },
-  {
-   "id": 603,
-   "name": "Cardiff City",
-   "league": "GB1",
-   "club_avg_lv": 14.202,
-   "club_n_prev": 13
   },
   {
    "id": 3268,
@@ -861,13 +707,6 @@
    "league": "TR1",
    "club_avg_lv": 14.1466,
    "club_n_prev": 65
-  },
-  {
-   "id": 2029,
-   "name": "Ceará Sporting Club",
-   "league": "BRA1",
-   "club_avg_lv": 14.1017,
-   "club_n_prev": 18
   },
   {
    "id": 940,
@@ -905,13 +744,6 @@
    "club_n_prev": 22
   },
   {
-   "id": 1429,
-   "name": "Cesena FC",
-   "league": "IT1",
-   "club_avg_lv": 14.006,
-   "club_n_prev": 8
-  },
-  {
    "id": 78435,
    "name": "Charlotte Football Club",
    "league": "MLS1",
@@ -931,20 +763,6 @@
    "league": "MLS1",
    "club_avg_lv": 13.7373,
    "club_n_prev": 55
-  },
-  {
-   "id": 6992,
-   "name": "Chornomorets Odesa",
-   "league": "UKR1",
-   "club_avg_lv": 12.0239,
-   "club_n_prev": 42
-  },
-  {
-   "id": 3524,
-   "name": "Clermont Foot 63",
-   "league": "FR1",
-   "club_avg_lv": 13.5983,
-   "club_n_prev": 5
   },
   {
    "id": 12301,
@@ -1248,13 +1066,6 @@
    "club_n_prev": 46
   },
   {
-   "id": 993,
-   "name": "Córdoba CF",
-   "league": "ES1",
-   "club_avg_lv": 13.3398,
-   "club_n_prev": 6
-  },
-  {
    "id": 2440,
    "name": "D.C. United",
    "league": "MLS1",
@@ -1262,25 +1073,11 @@
    "club_n_prev": 44
   },
   {
-   "id": 6504,
-   "name": "Daegu FC",
-   "league": "RSK1",
-   "club_avg_lv": 12.6727,
-   "club_n_prev": 5
-  },
-  {
    "id": 50532,
    "name": "Damac Football Club",
    "league": "SA1",
    "club_avg_lv": 12.6618,
    "club_n_prev": 23
-  },
-  {
-   "id": 642,
-   "name": "De Graafschap Doetinchem",
-   "league": "NL1",
-   "club_avg_lv": 12.8992,
-   "club_n_prev": 13
   },
   {
    "id": 3641,
@@ -1332,13 +1129,6 @@
    "club_n_prev": 59
   },
   {
-   "id": 897,
-   "name": "Deportivo de La Coruña",
-   "league": "ES1",
-   "club_avg_lv": 13.4588,
-   "club_n_prev": 5
-  },
-  {
    "id": 75231,
    "name": "Dinamo Makhachkala",
    "league": "RU1",
@@ -1374,27 +1164,6 @@
    "club_n_prev": 68
   },
   {
-   "id": 855,
-   "name": "EA Guingamp",
-   "league": "FR1",
-   "club_avg_lv": 13.6637,
-   "club_n_prev": 9
-  },
-  {
-   "id": 1095,
-   "name": "ESTAC Troyes",
-   "league": "FR1",
-   "club_avg_lv": 14.1779,
-   "club_n_prev": 12
-  },
-  {
-   "id": 23,
-   "name": "Eintracht Braunschweig",
-   "league": "L1",
-   "club_avg_lv": 13.457,
-   "club_n_prev": 19
-  },
-  {
    "id": 24,
    "name": "Eintracht Frankfurt",
    "league": "L1",
@@ -1423,32 +1192,11 @@
    "club_n_prev": 38
   },
   {
-   "id": 39722,
-   "name": "Erzurumspor FK",
-   "league": "TR1",
-   "club_avg_lv": 13.3803,
-   "club_n_prev": 7
-  },
-  {
-   "id": 3426,
-   "name": "Esbjerg fB",
-   "league": "DK1",
-   "club_avg_lv": 12.9626,
-   "club_n_prev": 10
-  },
-  {
    "id": 10010,
    "name": "Esporte Clube Bahia",
    "league": "BRA1",
    "club_avg_lv": 15.0201,
    "club_n_prev": 62
-  },
-  {
-   "id": 10492,
-   "name": "Esporte Clube Juventude",
-   "league": "BRA1",
-   "club_avg_lv": 13.4979,
-   "club_n_prev": 11
   },
   {
    "id": 2125,
@@ -1554,27 +1302,6 @@
    "league": "RO1",
    "club_avg_lv": 13.2875,
    "club_n_prev": 40
-  },
-  {
-   "id": 1455,
-   "name": "FC Dordrecht",
-   "league": "NL1",
-   "club_avg_lv": 12.9663,
-   "club_n_prev": 10
-  },
-  {
-   "id": 1283,
-   "name": "FC Emmen",
-   "league": "NL1",
-   "club_avg_lv": 12.5621,
-   "club_n_prev": 7
-  },
-  {
-   "id": 749,
-   "name": "FC Empoli",
-   "league": "IT1",
-   "club_avg_lv": 14.5246,
-   "club_n_prev": 56
   },
   {
    "id": 3329,
@@ -1696,13 +1423,6 @@
    "club_n_prev": 66
   },
   {
-   "id": 2995,
-   "name": "FC Paços de Ferreira",
-   "league": "PO1",
-   "club_avg_lv": 12.8467,
-   "club_n_prev": 5
-  },
-  {
    "id": 720,
    "name": "FC Porto",
    "league": "PO1",
@@ -1724,13 +1444,6 @@
    "club_n_prev": 65
   },
   {
-   "id": 33,
-   "name": "FC Schalke 04",
-   "league": "L1",
-   "club_avg_lv": 13.7025,
-   "club_n_prev": 8
-  },
-  {
    "id": 660,
    "name": "FC Shakhtar Donetsk",
    "league": "UKR1",
@@ -1750,13 +1463,6 @@
    "league": "TS1",
    "club_avg_lv": 13.1623,
    "club_n_prev": 67
-  },
-  {
-   "id": 750,
-   "name": "FC Sochaux-Montbéliard",
-   "league": "FR1",
-   "club_avg_lv": 12.3447,
-   "club_n_prev": 5
   },
   {
    "id": 257,
@@ -1813,13 +1519,6 @@
    "league": "TS1",
    "club_avg_lv": 14.3104,
    "club_n_prev": 63
-  },
-  {
-   "id": 6912,
-   "name": "FC Vizela",
-   "league": "PO1",
-   "club_avg_lv": 13.2144,
-   "club_n_prev": 5
   },
   {
    "id": 724,
@@ -1906,13 +1605,6 @@
    "club_n_prev": 51
   },
   {
-   "id": 2761,
-   "name": "FK Haugesund",
-   "league": "NO1",
-   "club_avg_lv": 12.8206,
-   "club_n_prev": 7
-  },
-  {
    "id": 32113,
    "name": "FK IMT Belgrad",
    "league": "SER1",
@@ -1932,13 +1624,6 @@
    "league": "SER1",
    "club_avg_lv": 12.7077,
    "club_n_prev": 45
-  },
-  {
-   "id": 20887,
-   "name": "FK Jedinstvo Ub",
-   "league": "SER1",
-   "club_avg_lv": 12.4139,
-   "club_n_prev": 8
   },
   {
    "id": 16704,
@@ -2060,25 +1745,11 @@
    "club_n_prev": 52
   },
   {
-   "id": 36922,
-   "name": "FK Tekstilac Odzaci",
-   "league": "SER1",
-   "club_avg_lv": 12.2994,
-   "club_n_prev": 14
-  },
-  {
    "id": 814,
    "name": "FK Teplice",
    "league": "TS1",
    "club_avg_lv": 12.6322,
    "club_n_prev": 60
-  },
-  {
-   "id": 28095,
-   "name": "FK Ufa",
-   "league": "RU1",
-   "club_avg_lv": 12.9309,
-   "club_n_prev": 5
   },
   {
    "id": 448,
@@ -2100,13 +1771,6 @@
    "league": "JAP1",
    "club_avg_lv": 12.7245,
    "club_n_prev": 24
-  },
-  {
-   "id": 1124,
-   "name": "Fakel Voronezh",
-   "league": "RU1",
-   "club_avg_lv": 12.8836,
-   "club_n_prev": 43
   },
   {
    "id": 1191,
@@ -2193,20 +1857,6 @@
    "club_n_prev": 68
   },
   {
-   "id": 10870,
-   "name": "Fortaleza Esporte Clube",
-   "league": "BRA1",
-   "club_avg_lv": 14.3558,
-   "club_n_prev": 23
-  },
-  {
-   "id": 38,
-   "name": "Fortuna Düsseldorf",
-   "league": "L1",
-   "club_avg_lv": 14.149,
-   "club_n_prev": 21
-  },
-  {
    "id": 385,
    "name": "Fortuna Sittardia Combinatie",
    "league": "NL1",
@@ -2233,13 +1883,6 @@
    "league": "NO1",
    "club_avg_lv": 13.2888,
    "club_n_prev": 44
-  },
-  {
-   "id": 8970,
-   "name": "Frosinone Calcio",
-   "league": "IT1",
-   "club_avg_lv": 13.9331,
-   "club_n_prev": 5
   },
   {
    "id": 931,
@@ -2354,13 +1997,6 @@
    "club_n_prev": 65
   },
   {
-   "id": 16795,
-   "name": "Granada CF",
-   "league": "ES1",
-   "club_avg_lv": 14.1056,
-   "club_n_prev": 18
-  },
-  {
    "id": 504,
    "name": "Grasshopper Club Zurich",
    "league": "C1",
@@ -2466,20 +2102,6 @@
    "club_n_prev": 37
   },
   {
-   "id": 42,
-   "name": "Hannover 96",
-   "league": "L1",
-   "club_avg_lv": 14.3249,
-   "club_n_prev": 15
-  },
-  {
-   "id": 7775,
-   "name": "Hatayspor",
-   "league": "TR1",
-   "club_avg_lv": 12.9498,
-   "club_n_prev": 31
-  },
-  {
    "id": 43,
    "name": "Heart of Midlothian FC",
    "league": "SC1",
@@ -2501,13 +2123,6 @@
    "club_n_prev": 65
   },
   {
-   "id": 44,
-   "name": "Hertha BSC",
-   "league": "L1",
-   "club_avg_lv": 14.1618,
-   "club_n_prev": 9
-  },
-  {
    "id": 903,
    "name": "Hibernian FC",
    "league": "SC1",
@@ -2522,53 +2137,11 @@
    "club_n_prev": 29
   },
   {
-   "id": 5818,
-   "name": "Hobro IK",
-   "league": "DK1",
-   "club_avg_lv": 12.1454,
-   "club_n_prev": 5
-  },
-  {
-   "id": 269,
-   "name": "Holstein Kiel",
-   "league": "L1",
-   "club_avg_lv": 13.8531,
-   "club_n_prev": 41
-  },
-  {
    "id": 9168,
    "name": "Houston Dynamo",
    "league": "MLS1",
    "club_avg_lv": 13.6537,
    "club_n_prev": 49
-  },
-  {
-   "id": 1110,
-   "name": "Huddersfield Town",
-   "league": "GB1",
-   "club_avg_lv": 13.4943,
-   "club_n_prev": 8
-  },
-  {
-   "id": 3008,
-   "name": "Hull City",
-   "league": "GB1",
-   "club_avg_lv": 14.3325,
-   "club_n_prev": 15
-  },
-  {
-   "id": 2844,
-   "name": "IFK Norrköping",
-   "league": "SE1",
-   "club_avg_lv": 13.2669,
-   "club_n_prev": 18
-  },
-  {
-   "id": 3622,
-   "name": "IFK Värnamo",
-   "league": "SE1",
-   "club_avg_lv": 13.103,
-   "club_n_prev": 18
   },
   {
    "id": 7945,
@@ -2627,13 +2200,6 @@
    "club_n_prev": 52
   },
   {
-   "id": 49364,
-   "name": "Ingulets Petrove",
-   "league": "UKR1",
-   "club_avg_lv": 11.9102,
-   "club_n_prev": 34
-  },
-  {
    "id": 1829,
    "name": "Instituto Atlético Central Córdoba",
    "league": "ARG1",
@@ -2653,20 +2219,6 @@
    "league": "COL1",
    "club_avg_lv": 12.7645,
    "club_n_prev": 39
-  },
-  {
-   "id": 677,
-   "name": "Ipswich Town",
-   "league": "GB1",
-   "club_avg_lv": 15.5948,
-   "club_n_prev": 51
-  },
-  {
-   "id": 924,
-   "name": "Istanbulspor",
-   "league": "TR1",
-   "club_avg_lv": 12.5563,
-   "club_n_prev": 8
   },
   {
    "id": 672,
@@ -2718,13 +2270,6 @@
    "club_n_prev": 76
   },
   {
-   "id": 1245,
-   "name": "KAS Eupen",
-   "league": "BE1",
-   "club_avg_lv": 12.9453,
-   "club_n_prev": 6
-  },
-  {
    "id": 23184,
    "name": "KFUM-Kameratene Oslo",
    "league": "NO1",
@@ -2737,13 +2282,6 @@
    "league": "BE1",
    "club_avg_lv": 15.0369,
    "club_n_prev": 74
-  },
-  {
-   "id": 601,
-   "name": "KV Kortrijk",
-   "league": "BE1",
-   "club_avg_lv": 13.5618,
-   "club_n_prev": 23
   },
   {
    "id": 354,
@@ -2914,13 +2452,6 @@
    "club_n_prev": 83
   },
   {
-   "id": 1003,
-   "name": "Leicester City",
-   "league": "GB1",
-   "club_avg_lv": 15.413,
-   "club_n_prev": 56
-  },
-  {
    "id": 3368,
    "name": "Levante UD",
    "league": "ES1",
@@ -2949,13 +2480,6 @@
    "club_n_prev": 48
   },
   {
-   "id": 86209,
-   "name": "Livyi Bereg Kyiv",
-   "league": "UKR1",
-   "club_avg_lv": 12.3315,
-   "club_n_prev": 26
-  },
-  {
    "id": 38628,
    "name": "Llaneros FC",
    "league": "COL1",
@@ -2977,32 +2501,11 @@
    "club_n_prev": 66
   },
   {
-   "id": 1031,
-   "name": "Luton Town",
-   "league": "GB1",
-   "club_avg_lv": 14.202,
-   "club_n_prev": 9
-  },
-  {
-   "id": 369,
-   "name": "Lyngby Boldklub",
-   "league": "DK1",
-   "club_avg_lv": 12.6971,
-   "club_n_prev": 24
-  },
-  {
    "id": 13726,
    "name": "MFK Karvina",
    "league": "TS1",
    "club_avg_lv": 12.9607,
    "club_n_prev": 57
-  },
-  {
-   "id": 868,
-   "name": "MKE Ankaragücü",
-   "league": "TR1",
-   "club_avg_lv": 13.4183,
-   "club_n_prev": 13
   },
   {
    "id": 71085,
@@ -3054,13 +2557,6 @@
    "club_n_prev": 45
   },
   {
-   "id": 641,
-   "name": "Middlesbrough FC",
-   "league": "GB1",
-   "club_avg_lv": 15.163,
-   "club_n_prev": 13
-  },
-  {
    "id": 2350,
    "name": "Millonarios FC",
    "league": "COL1",
@@ -3094,13 +2590,6 @@
    "league": "NO1",
    "club_avg_lv": 13.6789,
    "club_n_prev": 55
-  },
-  {
-   "id": 969,
-   "name": "Montpellier HSC",
-   "league": "FR1",
-   "club_avg_lv": 14.2777,
-   "club_n_prev": 23
   },
   {
    "id": 979,
@@ -3229,13 +2718,6 @@
    "club_n_prev": 40
   },
   {
-   "id": 1123,
-   "name": "Norwich City",
-   "league": "GB1",
-   "club_avg_lv": 15.1235,
-   "club_n_prev": 20
-  },
-  {
    "id": 703,
    "name": "Nottingham Forest",
    "league": "GB1",
@@ -3348,13 +2830,6 @@
    "club_n_prev": 61
   },
   {
-   "id": 458,
-   "name": "Palermo FC",
-   "league": "IT1",
-   "club_avg_lv": 14.3628,
-   "club_n_prev": 9
-  },
-  {
    "id": 265,
    "name": "Panathinaikos Athlitikos Omilos",
    "league": "GR1",
@@ -3367,13 +2842,6 @@
    "league": "GR1",
    "club_avg_lv": 12.8964,
    "club_n_prev": 35
-  },
-  {
-   "id": 169,
-   "name": "Panionios Athens",
-   "league": "GR1",
-   "club_avg_lv": 12.069,
-   "club_n_prev": 6
   },
   {
    "id": 3385,
@@ -3409,20 +2877,6 @@
    "league": "IT1",
    "club_avg_lv": 15.1219,
    "club_n_prev": 70
-  },
-  {
-   "id": 2760,
-   "name": "Partick Thistle FC",
-   "league": "SC1",
-   "club_avg_lv": 11.7485,
-   "club_n_prev": 10
-  },
-  {
-   "id": 3209,
-   "name": "Pendikspor",
-   "league": "TR1",
-   "club_avg_lv": 12.5696,
-   "club_n_prev": 8
   },
   {
    "id": 970,
@@ -3467,13 +2921,6 @@
    "club_n_prev": 51
   },
   {
-   "id": 7378,
-   "name": "Portimonense SC",
-   "league": "PO1",
-   "club_avg_lv": 12.6559,
-   "club_n_prev": 8
-  },
-  {
    "id": 4291,
    "name": "Portland Timbers",
    "league": "MLS1",
@@ -3486,13 +2933,6 @@
    "league": "MEX1",
    "club_avg_lv": 13.5185,
    "club_n_prev": 51
-  },
-  {
-   "id": 1039,
-   "name": "Queens Park Rangers",
-   "league": "GB1",
-   "club_avg_lv": 14.2728,
-   "club_n_prev": 13
   },
   {
    "id": 4961,
@@ -3544,13 +2984,6 @@
    "club_n_prev": 56
   },
   {
-   "id": 2715,
-   "name": "RFC Seraing",
-   "league": "BE1",
-   "club_avg_lv": 12.5683,
-   "club_n_prev": 6
-  },
-  {
    "id": 3725,
    "name": "RFK Akhmat Grozny",
    "league": "RU1",
@@ -3558,25 +2991,11 @@
    "club_n_prev": 60
   },
   {
-   "id": 235,
-   "name": "RKC Waalwijk",
-   "league": "NL1",
-   "club_avg_lv": 12.6579,
-   "club_n_prev": 40
-  },
-  {
    "id": 58,
    "name": "RSC Anderlecht",
    "league": "BE1",
    "club_avg_lv": 14.6995,
    "club_n_prev": 79
-  },
-  {
-   "id": 54189,
-   "name": "RWD Molenbeek",
-   "league": "BE1",
-   "club_avg_lv": 13.4916,
-   "club_n_prev": 9
   },
   {
    "id": 1444,
@@ -3670,20 +3089,6 @@
    "club_n_prev": 71
   },
   {
-   "id": 366,
-   "name": "Real Valladolid CF",
-   "league": "ES1",
-   "club_avg_lv": 14.0842,
-   "club_n_prev": 36
-  },
-  {
-   "id": 142,
-   "name": "Real Zaragoza",
-   "league": "ES1",
-   "club_avg_lv": 13.926,
-   "club_n_prev": 15
-  },
-  {
    "id": 8793,
    "name": "Red Bull Bragantino",
    "league": "BRA1",
@@ -3719,32 +3124,11 @@
    "club_n_prev": 60
   },
   {
-   "id": 192,
-   "name": "Roda JC Kerkrade",
-   "league": "NL1",
-   "club_avg_lv": 12.9154,
-   "club_n_prev": 9
-  },
-  {
    "id": 195,
    "name": "Rosenborg Ballklub",
    "league": "NO1",
    "club_avg_lv": 13.7592,
    "club_n_prev": 51
-  },
-  {
-   "id": 2759,
-   "name": "Ross County FC",
-   "league": "SC1",
-   "club_avg_lv": 12.1765,
-   "club_n_prev": 51
-  },
-  {
-   "id": 3609,
-   "name": "Rotor Volgograd",
-   "league": "RU1",
-   "club_avg_lv": 12.6999,
-   "club_n_prev": 5
   },
   {
    "id": 1096,
@@ -3789,20 +3173,6 @@
    "club_n_prev": 61
   },
   {
-   "id": 133,
-   "name": "SC Cambuur Leeuwarden",
-   "league": "NL1",
-   "club_avg_lv": 12.4554,
-   "club_n_prev": 8
-  },
-  {
-   "id": 4294,
-   "name": "SC Farense",
-   "league": "PO1",
-   "club_avg_lv": 13.1026,
-   "club_n_prev": 28
-  },
-  {
    "id": 60,
    "name": "SC Freiburg",
    "league": "L1",
@@ -3824,13 +3194,6 @@
    "club_n_prev": 37
   },
   {
-   "id": 127,
-   "name": "SC Paderborn 07",
-   "league": "L1",
-   "club_avg_lv": 14.681,
-   "club_n_prev": 13
-  },
-  {
    "id": 81401,
    "name": "SC Poltava",
    "league": "UKR1",
@@ -3843,34 +3206,6 @@
    "league": "NL1",
    "club_avg_lv": 12.704,
    "club_n_prev": 45
-  },
-  {
-   "id": 1533,
-   "name": "SD Eibar",
-   "league": "ES1",
-   "club_avg_lv": 13.5037,
-   "club_n_prev": 10
-  },
-  {
-   "id": 5358,
-   "name": "SD Huesca",
-   "league": "ES1",
-   "club_avg_lv": 13.1094,
-   "club_n_prev": 12
-  },
-  {
-   "id": 28643,
-   "name": "SK Beveren",
-   "league": "BE1",
-   "club_avg_lv": 12.6459,
-   "club_n_prev": 13
-  },
-  {
-   "id": 1321,
-   "name": "SK Dynamo Ceske Budejovice",
-   "league": "TS1",
-   "club_avg_lv": 12.2601,
-   "club_n_prev": 7
   },
   {
    "id": 2311,
@@ -3887,13 +3222,6 @@
    "club_n_prev": 82
   },
   {
-   "id": 3690,
-   "name": "SKA Khabarovsk",
-   "league": "RU1",
-   "club_avg_lv": 12.9756,
-   "club_n_prev": 5
-  },
-  {
    "id": 294,
    "name": "SL Benfica",
    "league": "PO1",
@@ -3901,25 +3229,11 @@
    "club_n_prev": 67
   },
   {
-   "id": 1162,
-   "name": "SM Caen",
-   "league": "FR1",
-   "club_avg_lv": 13.6562,
-   "club_n_prev": 10
-  },
-  {
    "id": 6195,
    "name": "SSC Napoli",
    "league": "IT1",
    "club_avg_lv": 16.246,
    "club_n_prev": 66
-  },
-  {
-   "id": 105,
-   "name": "SV Darmstadt 98",
-   "league": "L1",
-   "club_avg_lv": 13.8674,
-   "club_n_prev": 5
   },
   {
    "id": 266,
@@ -3999,13 +3313,6 @@
    "club_n_prev": 55
   },
   {
-   "id": 54585,
-   "name": "Sepsi OSK Sf. Gheorghe",
-   "league": "RO1",
-   "club_avg_lv": 12.8396,
-   "club_n_prev": 8
-  },
-  {
    "id": 61,
    "name": "Servette FC",
    "league": "C1",
@@ -4020,20 +3327,6 @@
    "club_n_prev": 51
   },
   {
-   "id": 350,
-   "name": "Sheffield United",
-   "league": "GB1",
-   "club_avg_lv": 14.3212,
-   "club_n_prev": 17
-  },
-  {
-   "id": 8457,
-   "name": "Shonan Bellmare",
-   "league": "JAP1",
-   "club_avg_lv": 13.0543,
-   "club_n_prev": 9
-  },
-  {
    "id": 1177,
    "name": "Silkeborg IF",
    "league": "DK1",
@@ -4046,20 +3339,6 @@
    "league": "BE1",
    "club_avg_lv": 13.7271,
    "club_n_prev": 70
-  },
-  {
-   "id": 2381,
-   "name": "Sivasspor",
-   "league": "TR1",
-   "club_avg_lv": 12.9473,
-   "club_n_prev": 37
-  },
-  {
-   "id": 759,
-   "name": "Slask Wroclaw",
-   "league": "PL1",
-   "club_avg_lv": 12.2167,
-   "club_n_prev": 5
   },
   {
    "id": 2362,
@@ -4083,32 +3362,11 @@
    "club_n_prev": 74
   },
   {
-   "id": 180,
-   "name": "Southampton FC",
-   "league": "GB1",
-   "club_avg_lv": 15.3764,
-   "club_n_prev": 61
-  },
-  {
-   "id": 65,
-   "name": "SpVgg Greuther Fürth",
-   "league": "L1",
-   "club_avg_lv": 13.0285,
-   "club_n_prev": 8
-  },
-  {
    "id": 468,
    "name": "Sparta Rotterdam",
    "league": "NL1",
    "club_avg_lv": 13.45,
    "club_n_prev": 65
-  },
-  {
-   "id": 3522,
-   "name": "Spezia Calcio",
-   "league": "IT1",
-   "club_avg_lv": 14.2142,
-   "club_n_prev": 6
   },
   {
    "id": 199,
@@ -4125,13 +3383,6 @@
    "club_n_prev": 62
   },
   {
-   "id": 8718,
-   "name": "Sport Club do Recife",
-   "league": "BRA1",
-   "club_avg_lv": 14.0076,
-   "club_n_prev": 16
-  },
-  {
    "id": 3551,
    "name": "Sportclub Rheindorf Altach",
    "league": "A1",
@@ -4144,13 +3395,6 @@
    "league": "PO1",
    "club_avg_lv": 16.2989,
    "club_n_prev": 67
-  },
-  {
-   "id": 2448,
-   "name": "Sporting Gijón",
-   "league": "ES1",
-   "club_avg_lv": 13.9608,
-   "club_n_prev": 7
   },
   {
    "id": 4284,
@@ -4174,13 +3418,6 @@
    "club_n_prev": 57
   },
   {
-   "id": 2578,
-   "name": "St. Johnstone FC",
-   "league": "SC1",
-   "club_avg_lv": 12.3004,
-   "club_n_prev": 33
-  },
-  {
    "id": 82686,
    "name": "St. Louis City Soccer Club",
    "league": "MLS1",
@@ -4202,13 +3439,6 @@
    "club_n_prev": 58
   },
   {
-   "id": 1421,
-   "name": "Stade Reims",
-   "league": "FR1",
-   "club_avg_lv": 14.5057,
-   "club_n_prev": 37
-  },
-  {
    "id": 273,
    "name": "Stade Rennais FC",
    "league": "FR1",
@@ -4223,39 +3453,11 @@
    "club_n_prev": 69
   },
   {
-   "id": 512,
-   "name": "Stoke City",
-   "league": "GB1",
-   "club_avg_lv": 15.1026,
-   "club_n_prev": 17
-  },
-  {
-   "id": 2817,
-   "name": "Strømsgodset IF",
-   "league": "NO1",
-   "club_avg_lv": 13.4029,
-   "club_n_prev": 12
-  },
-  {
    "id": 289,
    "name": "Sunderland AFC",
    "league": "GB1",
    "club_avg_lv": 16.0299,
    "club_n_prev": 53
-  },
-  {
-   "id": 31622,
-   "name": "Suwon FC",
-   "league": "RSK1",
-   "club_avg_lv": 12.6986,
-   "club_n_prev": 7
-  },
-  {
-   "id": 2288,
-   "name": "Swansea City",
-   "league": "GB1",
-   "club_avg_lv": 14.4133,
-   "club_n_prev": 21
   },
   {
    "id": 8054,
@@ -4342,13 +3544,6 @@
    "club_n_prev": 49
   },
   {
-   "id": 1186,
-   "name": "Torpedo Moscow",
-   "league": "RU1",
-   "club_avg_lv": 13.4261,
-   "club_n_prev": 14
-  },
-  {
    "id": 148,
    "name": "Tottenham Hotspur",
    "league": "GB1",
@@ -4370,27 +3565,6 @@
    "club_n_prev": 37
   },
   {
-   "id": 1038,
-   "name": "UC Sampdoria",
-   "league": "IT1",
-   "club_avg_lv": 13.4547,
-   "club_n_prev": 7
-  },
-  {
-   "id": 3302,
-   "name": "UD Almería",
-   "league": "ES1",
-   "club_avg_lv": 14.9231,
-   "club_n_prev": 13
-  },
-  {
-   "id": 472,
-   "name": "UD Las Palmas",
-   "league": "ES1",
-   "club_avg_lv": 14.7682,
-   "club_n_prev": 24
-  },
-  {
    "id": 7633,
    "name": "UNAM Pumas",
    "league": "MEX1",
@@ -4410,13 +3584,6 @@
    "league": "IT1",
    "club_avg_lv": 14.4516,
    "club_n_prev": 97
-  },
-  {
-   "id": 380,
-   "name": "US Salernitana 1919",
-   "league": "IT1",
-   "club_avg_lv": 13.8068,
-   "club_n_prev": 23
   },
   {
    "id": 6574,
@@ -4468,13 +3635,6 @@
    "club_n_prev": 29
   },
   {
-   "id": 11127,
-   "name": "Ural Yekaterinburg",
-   "league": "RU1",
-   "club_avg_lv": 13.1052,
-   "club_n_prev": 19
-  },
-  {
    "id": 828,
    "name": "Urawa Red Diamonds",
    "league": "JAP1",
@@ -4487,13 +3647,6 @@
    "league": "JAP1",
    "club_avg_lv": 12.7099,
    "club_n_prev": 42
-  },
-  {
-   "id": 1426,
-   "name": "VVV-Venlo",
-   "league": "NL1",
-   "club_avg_lv": 12.5311,
-   "club_n_prev": 6
   },
   {
    "id": 1049,
@@ -4517,32 +3670,11 @@
    "club_n_prev": 56
   },
   {
-   "id": 19657,
-   "name": "Vendsyssel FF",
-   "league": "DK1",
-   "club_avg_lv": 12.3983,
-   "club_n_prev": 8
-  },
-  {
-   "id": 607,
-   "name": "Venezia FC",
-   "league": "IT1",
-   "club_avg_lv": 14.3378,
-   "club_n_prev": 39
-  },
-  {
    "id": 79,
    "name": "VfB Stuttgart",
    "league": "L1",
    "club_avg_lv": 15.7703,
    "club_n_prev": 110
-  },
-  {
-   "id": 80,
-   "name": "VfL Bochum",
-   "league": "L1",
-   "club_avg_lv": 14.0014,
-   "club_n_prev": 53
   },
   {
    "id": 82,
@@ -4573,13 +3705,6 @@
    "club_n_prev": 65
   },
   {
-   "id": 499,
-   "name": "Vitesse Arnhem",
-   "league": "NL1",
-   "club_avg_lv": 12.7944,
-   "club_n_prev": 9
-  },
-  {
    "id": 2420,
    "name": "Vitória Guimarães SC",
    "league": "PO1",
@@ -4591,13 +3716,6 @@
    "name": "Volou Neos Podosferikos Syllogos",
    "league": "GR1",
    "club_avg_lv": 12.6967,
-   "club_n_prev": 29
-  },
-  {
-   "id": 2740,
-   "name": "Vorskla Poltava",
-   "league": "UKR1",
-   "club_avg_lv": 12.395,
    "club_n_prev": 29
   },
   {
@@ -4622,25 +3740,11 @@
    "club_n_prev": 48
   },
   {
-   "id": 1010,
-   "name": "Watford FC",
-   "league": "GB1",
-   "club_avg_lv": 14.0886,
-   "club_n_prev": 17
-  },
-  {
    "id": 8445,
    "name": "Wellington Phoenix",
    "league": "AUS1",
    "club_avg_lv": 12.3939,
    "club_n_prev": 46
-  },
-  {
-   "id": 984,
-   "name": "West Bromwich Albion",
-   "league": "GB1",
-   "club_avg_lv": 15.2976,
-   "club_n_prev": 17
   },
   {
    "id": 379,
@@ -4664,20 +3768,6 @@
    "club_n_prev": 58
   },
   {
-   "id": 1071,
-   "name": "Wigan Athletic",
-   "league": "GB1",
-   "club_avg_lv": 12.6882,
-   "club_n_prev": 6
-  },
-  {
-   "id": 403,
-   "name": "Willem II Tilburg",
-   "league": "NL1",
-   "club_avg_lv": 12.8696,
-   "club_n_prev": 37
-  },
-  {
    "id": 2118,
    "name": "Wisla Plock",
    "league": "PL1",
@@ -4699,25 +3789,11 @@
    "club_n_prev": 46
   },
   {
-   "id": 943,
-   "name": "Yokohama FC",
-   "league": "JAP1",
-   "club_avg_lv": 12.9315,
-   "club_n_prev": 5
-  },
-  {
    "id": 3828,
    "name": "Yokohama Marinos",
    "league": "JAP1",
    "club_avg_lv": 12.8264,
    "club_n_prev": 26
-  },
-  {
-   "id": 322,
-   "name": "Yverdon Sport FC",
-   "league": "C1",
-   "club_avg_lv": 13.5966,
-   "club_n_prev": 11
   },
   {
    "id": 168,
@@ -4753,20 +3829,6 @@
    "league": "SE1",
    "club_avg_lv": 12.3541,
    "club_n_prev": 44
-  },
-  {
-   "id": 1236,
-   "name": "Östers IF",
-   "league": "SE1",
-   "club_avg_lv": 13.1507,
-   "club_n_prev": 12
-  },
-  {
-   "id": 24245,
-   "name": "Ümraniyespor",
-   "league": "TR1",
-   "club_avg_lv": 13.0083,
-   "club_n_prev": 8
   },
   {
    "id": 932,
